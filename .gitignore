@@ -1,0 +1,14 @@
+# Maven
+/target/
+/.settings/
+/.classpath
+.project
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# credentials (if you create one)
+src/main/resources/*.properties
